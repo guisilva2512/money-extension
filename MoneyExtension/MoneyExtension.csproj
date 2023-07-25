@@ -5,8 +5,8 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
 
-    <PackageId>MoneyExtensions</PackageId>
-    <Version>1.0.0</Version>
+    <PackageId>MoneyExtensionsDemo</PackageId>
+    <Version>1.0.1</Version>
     <License>MIT</License>
     <Authors>Guilherme Aparecido da Silva</Authors>
     <Company>dev.gsilva</Company>
@@ -17,12 +17,12 @@
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
     <PackageIcon>icon.png</PackageIcon>
     <PackageTags>money;int;decima;converter</PackageTags>
-    <Title>MoneyExtensions</Title>
+    <Title>MoneyExtensionsDemo</Title>
     <Summary>Extension to convert decimal to integer</Summary>
   </PropertyGroup>
 
  <ItemGroup>
     <None Include="..\Media\icon.png" Pack="true" PackagePath="\"/>
   </ItemGroup>
-  
+
 </Project>
